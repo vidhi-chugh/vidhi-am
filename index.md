@@ -1,7 +1,7 @@
 
 ## Education
 ### Northcap University (Aug 2007 - July 2011)
-	*B.Tech in Electronics Engineering
+* **B.Tech in Electronics Engineering
 
 ### FRM charterholder (2014-15)
 
