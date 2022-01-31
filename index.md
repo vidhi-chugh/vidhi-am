@@ -1,5 +1,5 @@
 ## About
-She is an award-winning AI/ML innovaton leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver buisness value and insights at Walmart Global Tech India.
+She is an award-winning AI/ML innovaton leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India.
 
 She is an AI Ethicist and a researcher at the Center for AI and Digital Policy Spring'22 with a prime focus on AI policy analysis, research and evaluation. She has conducted several workshops demonstrating how to integrate ethical principles in an AI/ML project lifecycle.
 
@@ -63,14 +63,14 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 
 ### Blue Yonder
 * **Staff Data Scientist (Aug. 2018 - Aug. 2021)**
-    * Built an order lateness assistant tool that identifies the most probable issue in the supply chain for planer to act upon
+    * Built an order lateness assistant tool that identifies the most probable issue in the supply chain for planner to act upon
 	* Probabilistic Graphical Models: Designed a query engine for inference generation and anomaly detection
 	* Received the Outstanding Innovation of the year award.
 	* Deep Q learning: Designed DQN and DQFD RL agent that optimizes the supply chain traversal
 
 ### Yatra 
 * **Senior Data Scientist (Sep. 17 – Aug. 18)** 
-	* Led a team of 6 consisting of data scientists, engineers and rsesearchers. Designed multi-variate LSTM model to forecast the performance of top traffic campaigns. Deployment strategy involved rigorous AB testing by careful examination of control groups campaigns and evaluation of effect size.
+	* Led a team of 6, consisting of data scientists, engineers and researchers. Designed multi-variate LSTM model to forecast the performance of top traffic campaigns. Deployment strategy involved rigorous AB testing by careful examination of control groups campaigns and evaluation of effect size.
 	* Designed a dynamic bidding enabled DQN agent across multiple dimensions 
 
 ### PwC 
