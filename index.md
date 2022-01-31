@@ -12,9 +12,9 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 ## Awards
 * [AI Changemaker Impact 2022](https://www.linkedin.com/feed/update/urn:li:activity:6892492269543391232/)
 * [Outstanding Innovation of the year](https://www.linkedin.com/in/vidhi-chugh-088648a1/#:~:text=Financial%20Modelling-,Honors%20%26%20awards,-Honors%20%26%20awards)
-* [Excellence award for leading research in AI risks and gvernance, community building and promoting D&I](https://www.linkedin.com/in/vidhi-chugh-088648a1/#:~:text=Financial%20Modelling-,Honors%20%26%20awards,-Honors%20%26%20awards
+* [Excellence award for leading research in AI risks and governance community building and promoting D&I](https://www.linkedin.com/in/vidhi-chugh-088648a1/#:~:text=Financial%20Modelling-,Honors%20%26%20awards,-Honors%20%26%20awards)
 * [Million Women in Stem](https://www.1mwis.com/profile/vidhi-chugh)
-* Luminary Women In Coprorate Awards for Innovation 2021 finalist(https://www.linkedin.com/feed/update/urn:li:activity:6839554276038189056/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6839554276038189056%29)
+* [Luminary Women In Corporate Awards for Innovation 2021 finalist](https://www.linkedin.com/feed/update/urn:li:activity:6839554276038189056/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6839554276038189056%29)
 * [WomenTech Network Global Awards - rising Start in Stem of the year Nominee](https://www.linkedin.com/feed/update/urn:li:activity:6852637017671651328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6852637017671651328%29)
 * [Ethical AI consulting from the Algorithmic Bias Lab](https://www.linkedin.com/feed/update/urn:li:activity:6882159708917133312/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6882159708917133312%29)
 
