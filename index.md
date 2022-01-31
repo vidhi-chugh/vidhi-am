@@ -30,7 +30,7 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 ## Invited Speaker at Conferences and Institutes:
 * [Leveraging Graphical Models to assist healthcare at Predictive Analytics World](https://machinelearningweek.eu/speaker/vidhi-chugh/)
 * [Machine Learning Projects: Lab to Live Journey](https://www.predictiveanalyticsworld.com/business/2022/speakers/#:~:text=She%20works%20as%20a%20Staff%20Data%20Scientist%20with%20Walmart)
-* [Enhancing User Experience in digital world at Data Pints Digital Summit 2021](https://www.linkedin.com/feed/update/urn:li:activity:6871830199760158720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6871830199760158720%29)
+* [Enhancing User Experience in digital world at Data Points Digital Summit 2021](https://www.linkedin.com/feed/update/urn:li:activity:6871830199760158720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6871830199760158720%29)
 * [How do I trust the ML predictions? An introduction to ML interpretability - ODSC Webinar](https://www.meetup.com/en-AU/Bengaluru-Data-Science-ODSC/events/280686512/)
 * [Responsible AI at Karnatak Law Society's Gogte institute of Technology 2021](https://www.linkedin.com/feed/update/urn:li:activity:6817796987497398272/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6817796987497398272%29)
 * [Significance of Privacy in Data-Driven World at Women in Machine Learning and Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6835800360418983936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6835800360418983936%29)
@@ -39,7 +39,7 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 
 
 ## Podcasts
-* [Whose accountability is it? a guide towards cognizant machine learning solutions - bitgrit](https://www.youtube.com/watch?v=hheZMpLBjSE)
+* [Whose accountability is it? A guide towards cognizant machine learning solutions - bitgrit](https://www.youtube.com/watch?v=hheZMpLBjSE)
 * [Patenting AI solutions - Thought leadership webcasts with Sharmistha Chatterjee](https://www.youtube.com/watch?v=rf0x8JwxPw4&t=21s)
 * [Data Science Salon Podcast with AI/ML women leaders](https://open.spotify.com/episode/5O58Sl64k90iVHu2V9hDMz)
 * [Women in Data Science](https://www.linkedin.com/video/live/urn:li:ugcPost:6834182993804849152/)
