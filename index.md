@@ -1,9 +1,9 @@
 ## About
-She is an award-winning AI/ML innovaton leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and reserach teams to deliver buisness value and insights at Walmart Global Tech India.
+She is an award-winning AI/ML innovaton leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver buisness value and insights at Walmart Global Tech India.
 
 She is an AI Ethicist and a researcher at the Center for AI and Digital Policy Spring'22 with a prime focus on AI policy analysis, research and evaluation. She has conducted several workshops demonstrating how to integrate ethical principles in an AI/ML project lifecycle.
 
-Her novel inventions in the field of Bayesian Networks have led to pathbreaking solutions in the causal and prescriptive analysis and resulted in 12+ patents.
+Her novel inventions in the field of Bayesian Networks have led to pathbreaking solutions in causal and prescriptive analysis and resulted in 12+ patents.
 
 She is an international speaker at renowned conferences like Predictive Analytics World (PAW), Open Data Science Conference (ODSC), PyData, Grid Dynamics etc.
 She also runs a sucessful blog and has been featured on "Million Stem" as an inspiration for the next gen.
@@ -15,7 +15,7 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 * [Excellence award for leading research in AI risks and governance community building and promoting D&I](https://www.linkedin.com/in/vidhi-chugh-088648a1/#:~:text=Financial%20Modelling-,Honors%20%26%20awards,-Honors%20%26%20awards)
 * [Million Women in Stem](https://www.1mwis.com/profile/vidhi-chugh)
 * [Luminary Women In Corporate Awards for Innovation 2021 finalist](https://www.linkedin.com/feed/update/urn:li:activity:6839554276038189056/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6839554276038189056%29)
-* [WomenTech Network Global Awards - rising Start in Stem of the year Nominee](https://www.linkedin.com/feed/update/urn:li:activity:6852637017671651328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6852637017671651328%29)
+* [WomenTech Network Global Awards - Rising Star in Stem Nominee](https://www.linkedin.com/feed/update/urn:li:activity:6852637017671651328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6852637017671651328%29)
 * [Ethical AI consulting from the Algorithmic Bias Lab](https://www.linkedin.com/feed/update/urn:li:activity:6882159708917133312/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6882159708917133312%29)
 * [WomenTech Global Ambassador](https://www.womentech.net/en-in/global-ambassadors/India/Vidhi/Chugh) 
 
