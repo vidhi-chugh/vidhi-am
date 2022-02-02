@@ -1,5 +1,5 @@
 ## About
-She is an award-winning AI/ML innovaton leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India.
+She is an award-winning AI/ML innovation leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India.
 
 She is an AI Ethicist and a researcher at the Center for AI and Digital Policy Spring'22 with a prime focus on AI policy analysis, research and evaluation. She has conducted several workshops demonstrating how to integrate ethical principles in an AI/ML project lifecycle.
 
