@@ -33,6 +33,7 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 * [Machine Learning Projects: Lab to Live Journey](https://www.predictiveanalyticsworld.com/business/2022/speakers/#:~:text=She%20works%20as%20a%20Staff%20Data%20Scientist%20with%20Walmart)
 * [Enhancing User Experience in digital world at Data Points Digital Summit 2021](https://www.linkedin.com/feed/update/urn:li:activity:6871830199760158720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6871830199760158720%29)
 * [How do I trust the ML predictions? An introduction to ML interpretability - ODSC Webinar](https://www.meetup.com/en-AU/Bengaluru-Data-Science-ODSC/events/280686512/)
+* [The conundrum of AI and cybersecurity](https://www.linkedin.com/posts/gajendradeshpande_we-are-having-great-speaker-line-up-open-activity-6896499324184784896-ZYAr)
 * [Responsible AI at Karnatak Law Society's Gogte institute of Technology 2021](https://www.linkedin.com/feed/update/urn:li:activity:6817796987497398272/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6817796987497398272%29)
 * [Significance of Privacy in Data-Driven World at Women in Machine Learning and Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6835800360418983936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6835800360418983936%29)
 * [Data Science Salon DSSElevate](https://www.datascience.salon/vidhi-chugh/)
