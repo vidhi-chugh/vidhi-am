@@ -20,6 +20,7 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 * [WomenTech Global Ambassador](https://www.womentech.net/en-in/global-ambassadors/India/Vidhi/Chugh) 
 
 ## Publications:
+* [Putting Machine Learning models successfully into production, Convergence 2022](https://www.comet.ml/site/putting-machine-learning-models-successfully-into-production/?utm_campaign=convergence&utm_source=organic-social&utm_medium=twitter&utm_content=1645037488)
 * [The need for interpretable machine learning solutions at Analytics India Magazine](https://analyticsindiamag.com/the-need-for-interpretable-machine-learning-solutions/)
 * [Towards a responsible and ethical AI](https://www.linkedin.com/feed/update/urn:li:activity:6821063741082361856/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6821063741082361856%29)
 * [Imposter Syndrome: If you can't overcome it, use it](https://roundtable.datascience.salon/imposter-syndrome-if-you-cant-overcome-it-use-it)
