@@ -1,5 +1,5 @@
 ## About
-She is an award-winning AI/ML innovation leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She has also received the honour of "Global Women Achievers 2022" by Wordl Women Leadership Congress.
+She is an award-winning AI/ML innovation leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She has also received the honour of "Global Women Achievers 2022" by World Women Leadership Congress.
 
 She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India. She carries over a decade of experience enabling data-driven solutions spanned across a wide spectrum of domains including digital advertising, risk analytics, e-commerce, travel, and supply chain. She has worked in various roles from telecom engineering to building novel AI solutions and establishing data as a culture
 
@@ -28,7 +28,7 @@ She runs a successful blog with a mission to democratize machine learning and br
 ## Publications:
 * [Putting Machine Learning models successfully into production, Convergence 2022](https://www.comet.ml/site/putting-machine-learning-models-successfully-into-production/?utm_campaign=convergence&utm_source=organic-social&utm_medium=twitter&utm_content=1645037488)
 * [Thought Leadership view on "The Need for Interpretable Machine Learning Solutions"](https://analyticsindiamag.com/the-need-for-interpretable-machine-learning-solutions/)
-* [The need for interpretable machine learning solutions at Analytics India Magazine](https://analyticsindiamag.com/the-need-for-interpretable-machine-learning-solutions/)
+* [The Significance of Data Quality in Making a Successful Machine Learning Model](https://www.kdnuggets.com/2022/03/significance-data-quality-making-successful-machine-learning-model.html)
 * [Towards a responsible and ethical AI](https://www.linkedin.com/feed/update/urn:li:activity:6821063741082361856/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6821063741082361856%29)
 * [Imposter Syndrome: If you can't overcome it, use it](https://roundtable.datascience.salon/imposter-syndrome-if-you-cant-overcome-it-use-it)
 * [Women in Data Science](https://www.kdnuggets.com/2021/08/learned-women-data-science-conferences.html)
@@ -43,7 +43,7 @@ She runs a successful blog with a mission to democratize machine learning and br
 * [Machine Learning Projects: Lab to Live Journey](https://www.predictiveanalyticsworld.com/business/2022/speakers/#:~:text=She%20works%20as%20a%20Staff%20Data%20Scientist%20with%20Walmart)
 * [Enhancing User Experience in digital world at Data Points Digital Summit 2021](https://www.linkedin.com/feed/update/urn:li:activity:6871830199760158720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6871830199760158720%29)
 * [How do I trust the ML predictions? An introduction to ML interpretability - ODSC Webinar](https://www.meetup.com/en-AU/Bengaluru-Data-Science-ODSC/events/280686512/)
-* [Causal Inference and Insights Using Graphical Models]()https://www.linkedin.com/feed/update/urn:li:activity:6823252226321055744/
+* [Causal Inference and Insights Using Graphical Models](https://www.linkedin.com/feed/update/urn:li:activity:6823252226321055744/)
 * [The conundrum of AI and cybersecurity](https://www.linkedin.com/posts/gajendradeshpande_we-are-having-great-speaker-line-up-open-activity-6896499324184784896-ZYAr)
 * [Responsible AI at Karnatak Law Society's Gogte institute of Technology 2021](https://www.linkedin.com/feed/update/urn:li:activity:6817796987497398272/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6817796987497398272%29)
 * [Significance of Privacy in Data-Driven World at Women in Machine Learning and Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6835800360418983936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6835800360418983936%29)
