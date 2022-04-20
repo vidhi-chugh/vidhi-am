@@ -1,17 +1,21 @@
 ## About
-She is an award-winning AI/ML innovation leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India.
+She is an award-winning AI/ML innovation leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She has also received the honour of "Global Women Achievers 2022" by Wordl Women Leadership Congress.
 
-She carries over a decade of experience enabling data-driven solutions spanned across a wide spectrum of domains including digital advertising, risk analytics, e-commerce, travel, and supply chain. She has worked in various roles from telecom engineering to building novel AI solutions and establishing data as a culture
+She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India. She carries over a decade of experience enabling data-driven solutions spanned across a wide spectrum of domains including digital advertising, risk analytics, e-commerce, travel, and supply chain. She has worked in various roles from telecom engineering to building novel AI solutions and establishing data as a culture
 
 She is a director with AI4Diversity which is a nonprofit platform engaging and educating communities of color about artificial intelligence (AI).
 
 She is an AI Ethicist and a researcher at the Center for AI and Digital Policy Spring'22 with a prime focus on AI policy analysis, research and evaluation. She has conducted several workshops demonstrating how to integrate ethical principles in an AI/ML project lifecycle.
 
 Her novel inventions in the field of Bayesian Networks have led to pathbreaking solutions in causal and prescriptive analysis and resulted in 12+ patents.
-She is an international speaker at renowned conferences like Predictive Analytics World (PAW), Open Data Science Conference (ODSC). She runs a successful blog with a mission to democratize machine learning and break the jargon for everyone to be a part of this transformation. She passionately promotes the inclusion and growth of women in STEM and has been featured on “Million Stem” as an inspiration for the next-gen.
+
+She is an international speaker at renowned conferences like Predictive Analytics World (PAW), Open Data Science Conference (ODSC), Big Data and Analytics Summit Canada, MLOps World, WomenTech. 
+
+She runs a successful blog with a mission to democratize machine learning and break the jargon for everyone to be a part of this transformation. She passionately promotes the inclusion and growth of women in STEM and has been featured on “Million Stem” as an inspiration for the next-gen.
 
 ## Awards and Recognitions:
-* [AI Changemaker Impact 2022](https://www.linkedin.com/feed/update/urn:li:activity:6892492269543391232/)
+* [AI Changemaker Impact 2022 by 3AI](https://www.linkedin.com/feed/update/urn:li:activity:6892492269543391232/)
+* [Global Women Achiever by World Women Leadership Congress](https://www.linkedin.com/feed/update/urn:li:activity:6914506236382072832/)
 * [Outstanding Innovation of the year](https://www.linkedin.com/in/vidhi-chugh-088648a1/#:~:text=Financial%20Modelling-,Honors%20%26%20awards,-Honors%20%26%20awards)
 * [Excellence award for leading research in AI risks and governance community building and promoting D&I](https://www.linkedin.com/in/vidhi-chugh-088648a1/#:~:text=Financial%20Modelling-,Honors%20%26%20awards,-Honors%20%26%20awards)
 * [Million Women in Stem](https://www.1mwis.com/profile/vidhi-chugh)
@@ -19,9 +23,11 @@ She is an international speaker at renowned conferences like Predictive Analytic
 * [WomenTech Network Global Awards - Rising Star in Stem Nominee](https://www.linkedin.com/feed/update/urn:li:activity:6852637017671651328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6852637017671651328%29)
 * [Ethical AI consulting from the Algorithmic Bias Lab](https://www.linkedin.com/feed/update/urn:li:activity:6882159708917133312/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6882159708917133312%29)
 * [WomenTech Global Ambassador](https://www.womentech.net/en-in/global-ambassadors/India/Vidhi/Chugh) 
+* [Women in Data Science Global Ambassador 2022](https://www.widsconference.org/ambassadors-2022.html#:~:text=WiDS%20Ambassadors%20in%20Asia%C2%A0)
 
 ## Publications:
 * [Putting Machine Learning models successfully into production, Convergence 2022](https://www.comet.ml/site/putting-machine-learning-models-successfully-into-production/?utm_campaign=convergence&utm_source=organic-social&utm_medium=twitter&utm_content=1645037488)
+* [Thought Leadership view on "The Need for Interpretable Machine Learning Solutions"](https://analyticsindiamag.com/the-need-for-interpretable-machine-learning-solutions/)
 * [The need for interpretable machine learning solutions at Analytics India Magazine](https://analyticsindiamag.com/the-need-for-interpretable-machine-learning-solutions/)
 * [Towards a responsible and ethical AI](https://www.linkedin.com/feed/update/urn:li:activity:6821063741082361856/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6821063741082361856%29)
 * [Imposter Syndrome: If you can't overcome it, use it](https://roundtable.datascience.salon/imposter-syndrome-if-you-cant-overcome-it-use-it)
@@ -30,11 +36,14 @@ She is an international speaker at renowned conferences like Predictive Analytic
 * [Handling Data Bias](https://towardsdatascience.com/handling-data-bias-9775d07991d4)
 
 ## Invited Speaker at Conferences and Institutes:
+* [Fusing Big Data and AI to Create the Ultimate Automated Business Insight Tool at Big Data and Analytics Summit Canada](https://www.bigdatasummitcanada.com/speakers/vidhi-chugh/)
 * [Leveraging Graphical Models to assist healthcare at Predictive Analytics World](https://machinelearningweek.eu/speaker/vidhi-chugh/)
+* [Wearing the hat of ethical AI solution architect](https://www.womentech.net/speaker/Vidhi/Chugh/68201)
 * [Data Quality Assessment using TensorFlow Data Validation](https://www.ml-convergence.com/vidhi-chugh/)
 * [Machine Learning Projects: Lab to Live Journey](https://www.predictiveanalyticsworld.com/business/2022/speakers/#:~:text=She%20works%20as%20a%20Staff%20Data%20Scientist%20with%20Walmart)
 * [Enhancing User Experience in digital world at Data Points Digital Summit 2021](https://www.linkedin.com/feed/update/urn:li:activity:6871830199760158720/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6871830199760158720%29)
 * [How do I trust the ML predictions? An introduction to ML interpretability - ODSC Webinar](https://www.meetup.com/en-AU/Bengaluru-Data-Science-ODSC/events/280686512/)
+* [Causal Inference and Insights Using Graphical Models]()https://www.linkedin.com/feed/update/urn:li:activity:6823252226321055744/
 * [The conundrum of AI and cybersecurity](https://www.linkedin.com/posts/gajendradeshpande_we-are-having-great-speaker-line-up-open-activity-6896499324184784896-ZYAr)
 * [Responsible AI at Karnatak Law Society's Gogte institute of Technology 2021](https://www.linkedin.com/feed/update/urn:li:activity:6817796987497398272/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6817796987497398272%29)
 * [Significance of Privacy in Data-Driven World at Women in Machine Learning and Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6835800360418983936/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6835800360418983936%29)
