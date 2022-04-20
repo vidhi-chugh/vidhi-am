@@ -1,13 +1,14 @@
 ## About
 She is an award-winning AI/ML innovation leader and a leading expert in data governance with a vision to build the trustworthy AI solutions. She works at the intersection of data science, product and research teams to deliver business value and insights at Walmart Global Tech India.
 
+She carries over a decade of experience enabling data-driven solutions spanned across a wide spectrum of domains including digital advertising, risk analytics, e-commerce, travel, and supply chain. She has worked in various roles from telecom engineering to building novel AI solutions and establishing data as a culture
+
+She is a director with AI4Diversity which is a nonprofit platform engaging and educating communities of color about artificial intelligence (AI).
+
 She is an AI Ethicist and a researcher at the Center for AI and Digital Policy Spring'22 with a prime focus on AI policy analysis, research and evaluation. She has conducted several workshops demonstrating how to integrate ethical principles in an AI/ML project lifecycle.
 
 Her novel inventions in the field of Bayesian Networks have led to pathbreaking solutions in causal and prescriptive analysis and resulted in 12+ patents.
-
-She is an international speaker at renowned conferences like Predictive Analytics World (PAW), Open Data Science Conference (ODSC), PyData, Grid Dynamics etc.
-She also runs a sucessful blog and has been featured on "Million Stem" as an inspiration for the next gen.
-
+She is an international speaker at renowned conferences like Predictive Analytics World (PAW), Open Data Science Conference (ODSC). She runs a successful blog with a mission to democratize machine learning and break the jargon for everyone to be a part of this transformation. She passionately promotes the inclusion and growth of women in STEM and has been featured on “Million Stem” as an inspiration for the next-gen.
 
 ## Awards and Recognitions:
 * [AI Changemaker Impact 2022](https://www.linkedin.com/feed/update/urn:li:activity:6892492269543391232/)
@@ -62,19 +63,21 @@ She also runs a sucessful blog and has been featured on "Million Stem" as an ins
 ## Work Experience
 ### Walmart Global Tech India
 * **Staff Data Scientist (Aug. 2021 - Present)**
-   * Market Intelligence Analytics: Designing AI-enabled solutions to improve competitive pricing 
+   * She works cross-functionally with the business, data science, and product team to research and generate business value by leveraging AI. Besides, she is also responsible for mentoring the team and fostering the data science community.
+   * Leading MLOps for successful operationalization of machine learning algorithms including but not limited to designing the appropriate dataset amid dynamically changing data distributions to evaluate multiple models at foreplay, retraining signal, efficient utilization of cloud resources, and deploying model at scale.
 
 ### Blue Yonder
 * **Staff Data Scientist (Aug. 2018 - Aug. 2021)**
-    * Built an order lateness assistant tool that identifies the most probable issue in the supply chain for planner to act upon
-	* Probabilistic Graphical Models: Designed a query engine for inference generation and anomaly detection
-	* Received the Outstanding Innovation of the year award.
-	* Deep Q learning: Designed DQN and DQFD RL agent that optimizes the supply chain traversal
+    * On a mission to build an AI-enabled autonomous supply chain. She has led research and data science product teams to build a query engine that powers the supply chain with prescriptive machine learning models and a recommendations service. 
+    * Her noteworthy research in the field of machine learning has won the “Outstanding Innovation of the Year” accolade.
+    * She was the driving force behind the first-ever AI/ML hackathon conducted globally in BY, the event highlighted what are ML solvable problems and their benefits
+    * She has been honored with the "Individual Excellence Award" for her contribution to adopting AI/ML culture in the organization and promoting women in Tech. 
+    * Initiated the practice of adopting a pragmatic mindset by glorifying the learnings from ML projects that did not go to production, developed cross-functional team practice to share their learnings and grow together
 
 ### Yatra 
 * **Senior Data Scientist (Sep. 17 – Aug. 18)** 
-	* Led a team of 6, consisting of data scientists, engineers and researchers. Designed multi-variate LSTM model to forecast the performance of top traffic campaigns. Deployment strategy involved rigorous AB testing by careful examination of control groups campaigns and evaluation of effect size.
-	* Designed a dynamic bidding enabled DQN agent across multiple dimensions 
+    * Team lead for domestic flights division - architected bid optimization algorithm based on Deep Q Network. Worked in a start-up-like environment with a quick         go-live time of 3 weeks. 
+    * Designed an algorithm to model the stochastic environment and predicted each campaign performance leading to the potential conversion driving routes.
 
 ### PwC 
 * **Sr. Risk Analyst(Aug 15 to Feb 16)**
